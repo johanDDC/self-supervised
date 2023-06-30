@@ -1,0 +1,7 @@
+.idea
+
+data/
+checkpoints/
+wandb/
+
+src/supervised
